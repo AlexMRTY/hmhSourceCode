@@ -48,7 +48,7 @@ nav {
 .firstSection {
     width: 100%;
     height: calc(100vh - 140px);
-    /* background-image: url(../images/IMG_0233.JPG); */
+    background-image: url(../images/IMG_0233.JPG);
     background-size: cover;
     position: relative;
 }
